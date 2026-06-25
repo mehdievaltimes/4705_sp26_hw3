@@ -4,11 +4,3 @@
 Homework 3 for COMS W4705 Spring 2026. 
 
 This assignment requires you to complete an existing Jupyter notebook. The training process requires a GPU. You can use Google Colab to complete the assignment, but be aware of GPU runtime quotas. As an alternative, you could use a third party cloud provider offering GPUs, such as lambdalabs.com or vast.ai. It should also be possible to complete the assignment on a mac with M1/M2/M3 chip.
-
-Step 1: Please download the .ipynb for homework 3 from this repository or clone the repository.
-
-Step 2: Follow the instructions in the Jupyter notebook to complete the assignment (includes instructions for downloading data).
-
-Step 3 *SUBMISSION INSTRUCTIONS*: When you are done with the homework, make sure that you can see the output of every cell (please remove debugging output, and you can clear cells with long-form output, such as the list of file names when you unzip the data). The reason we need you to run all cells in the notebook before you share is that so we can see the output exactly as you saw it. Neural network models tend to get different outputs when the models are retrained. Then download the notebook and upload it to Courseworks. 
-
-You should also upload a PDF version of your notebook that we can refer to in case any of your cells get lost (you can create a PDF from within Jupyter using Print -> Save as PDF. If that doesn't work, using the print dialog of your browser is a good option).
